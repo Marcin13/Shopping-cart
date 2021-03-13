@@ -20,4 +20,4 @@ Component is so easy to install and very easy to use and customize.
 - then component from repo [Laravel-livewire-swal](https://github.com/matiere-noire/laravel-livewire-swal)
 - and last step follow by guide on this page [laravel-livewire-cart](https://github.com/Light-it-labs/laravel-livewire-cart) and this [laravel-livewire-cart PL](https://larablogger.pl/post/laravel-livewire-shopping-cart-demo)
 ## Thanks
-<p align="center"><a href="" target="_blank"><img src="https://larablogger.pl/storage/photos/tHrnxSv9IA5j66qT1ReL5jBAfMrJLE6pG6s2GE2b.png" width="400"></a></p>
+<p align="center"><a href="https://camo.githubusercontent.com/1469d20e1e053d474c0cd8f989064a6669963e7c11db72885425e75f47839eec/68747470733a2f2f6c617261626c6f676765722e706c2f73746f726167652f70686f746f732f7448726e785376394941356a363671543152654c356a4241664d724a4c45367047367332474532622e706e67" target="_blank"><img src="https://larablogger.pl/storage/photos/tHrnxSv9IA5j66qT1ReL5jBAfMrJLE6pG6s2GE2b.png" width="400"></a></p>
