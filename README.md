@@ -7,11 +7,11 @@ This project been created using:
 - [Laravel](https://laravel.com/)
 - [Livewire](https://laravel-livewire.com/)
   
-##The inspiration for this repo:
+## The inspiration for this repo:
 - [Repository laravel-livewire-cart](https://github.com/Light-it-labs/laravel-livewire-cart)
 - [Laravel-livewire-swal](https://github.com/matiere-noire/laravel-livewire-swal)
 - 
-##Idea
+## Idea
 The main idea is to show how to use [Livewire](https://laravel-livewire.com/) with  [SweatAllert2](https://sweetalert2.github.io/) very easily with
 [Livewire](https://laravel-livewire.com/) component.
 Component is so easy to install and very easy to use and customize.
